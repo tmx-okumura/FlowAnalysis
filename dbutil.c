@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include "dbutil.h"
 
+/test
+
 Person* retrievePersonFromDB(int id)
 {
     Person* p;
